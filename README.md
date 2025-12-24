@@ -1,5 +1,7 @@
 ## Quick start
 
+The .ipynb file is an independent standalone notebook. However more accuracy is obtained from the .py files compiled.
+
 Run the whole pipeline (same order as the notebook) with:
 
 ```bash
